@@ -32,5 +32,5 @@ android {
         disable 'InvalidPackage'
     }
 
-    namespace "com.yourapp.get_thumbnail_video"
+    namespace "xyz.justsoft.video_thumbnail"
 }
